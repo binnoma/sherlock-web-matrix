@@ -1,6 +1,18 @@
-# Sherlock OSINT Web & CLI
+# ⚡ Sherlock Cyber Recon OSINT Matrix
 
-منصة متكاملة للبحث عن الحسابات الرقمية عبر 430+ موقع ومنصة إلكترونية، مع واجهة ويب عصرية وتفاعلية.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-00ff66?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+  <img src="https://img.shields.io/badge/FastAPI-Framework-00f3ff?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Platforms-3%2C034%2B%20Sites-00ff88?style=for-the-badge&logo=target&logoColor=black" alt="Supported Platforms" />
+  <img src="https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20In-UAE%20%F0%9F%87%A6%F0%9F%87%AA-red?style=for-the-badge" alt="Made in UAE" />
+</p>
+
+منظومة استخبارات المصادر المفتوحة (OSINT) المتقدمة للتحري الرقمي، كشف الهويات، وتتبع البصمة الرقمية عبر أكثر من 3,034+ موقع ومنصة عالمية مع واجهة ويب تفاعلية بنمط المصفوفة الرقمية (Cyber Matrix UI).
+
+Developed by [@binnoma](https://github.com/binnoma) • [binnoma.com](https://binnoma.com)
+
+---
 
 ## 🚀 تشغيل واجهة الويب (Web UI) - الأسهل والأفضل
 
